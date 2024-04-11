@@ -1,6 +1,12 @@
 # High-frequency-animal-repellent-device
 This is a repository consisting of codes and another stuffs related to HF animal repellent device.
 
+I have made this project due to a trauma I have experienced.
+I had experienced many stray dog chases and also possible rabid dog attack. 
+Thankfully I am safe, and this device helps to repel these kinds of animals away.
+i have tested it and it certainly works.
+Please use it causiously....
+
 ---
 
 ### Disclaimer:
